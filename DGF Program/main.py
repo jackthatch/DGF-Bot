@@ -630,9 +630,7 @@ if __name__ == '__main__':
         ##ALL email alerts that need to be sent
         if topPick != None:
             browser.email_alert("", topPick, "2567911250@vtext.com")        ## ME
-            # browser.email_alert("", topPick, "2563091406@tmomail.net")    ## Jackson Boyer
-            # browser.email_alert("", topPick, "2563033821@vtext.com")        ## landon
-            # browser.email_alert("", topPick, "2566063511@txt.att.net")        ## Myles 21
+
             print(picksLibrary)
 
             # break
